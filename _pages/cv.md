@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronic, Electrical and Systems Engineering , University of Birmingham, 2020-2024
-* M.S. in Electrical Engineering, China Three Gorges University,2018-2020
-* B.S. in Electrical Engineering and Automation, China Three Gorges University,2014-2018
+* Ph.D in Electronic, Electrical and Systems Engineering  University of Birmingham        2020-2024
+* M.S. in Electrical Engineering                          China Three Gorges University   2018-2020
+* B.S. in Electrical Engineering and Automation           China Three Gorges University   2014-2018
 
 Work experience
 ======
-* March 2024 - Now: Power System Engineer
-  * GitHub University
+*  Power System Engineer              March 2024 - Now
+  * National Energy 
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
+*  Postgraduate Teaching Assistant     Sept.2021 - March 2024
 
 
   
