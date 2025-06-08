@@ -23,11 +23,11 @@ repository               : "https://shuailongdai.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shuailong Dai"
   pronouns         : # example: "she/her"  
   bio              : "Power system engineer"
   location         : "United Kigndom"
-  employer         : "Red Brick University"
+  employer         : "University of Birmingham"
   uri              : # URL
   email            : "daishuailong@gmail.com" 
 
