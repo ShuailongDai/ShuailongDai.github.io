@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 *  Power System Engineer              March 2024 - Now
-  * National Energy 
-  * Duties includes: Updates and improvements to template
+   * National Energy 
+   * Duties includes: Updates and improvements to template
 
 *  Postgraduate Teaching Assistant     Sept.2021 - March 2024
 
