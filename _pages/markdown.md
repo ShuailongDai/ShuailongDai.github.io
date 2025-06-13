@@ -37,9 +37,7 @@ The organisation is set up as a public corporation with its own Board of indepen
 
 
 
-
-
-
+## Still the draft version
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
