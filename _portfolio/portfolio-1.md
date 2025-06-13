@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CIGRE UK B4 Technical Liaison Meeting 2025"
+excerpt: "Shuailong Dai, Power Systems Engineer at NESO, introduced a Frequency Scan Toolbox, a data-driven solution for impedance-based stability analysis. He demonstrated how this tool can aid in accurately representing network behaviour and identifying potential stability issues.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
