@@ -34,7 +34,7 @@ The organisation is set up as a public corporation with its own Board of indepen
 
 
 
-
+<!--
 
 
 ## Still the draft version
@@ -326,3 +326,4 @@ This allows you to denote <var>variables</var>.
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
+-->
