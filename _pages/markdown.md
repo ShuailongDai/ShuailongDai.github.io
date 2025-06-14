@@ -45,7 +45,7 @@ The organisation is set up as a public corporation with its own Board of indepen
   * _publications/
   * _portfolio/
   * _posts/
-  * _teaching/
+  * _Projects/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
