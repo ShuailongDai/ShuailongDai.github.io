@@ -13,10 +13,16 @@ Research Interests
 ======
 Impedance-based stability analysis
 
+
+
 Grid-forming control
+As new energy equipment replaces traditional generators in modern power systems, the inertia of the system decreases, and the resulting instability becomes more frequent. Although the networking control method has advantages such as black start and providing inertia for the system, its control interaction phenomenon also causes some potential unstable factors.
+
 
 Network reduction
+The detailed EMT model for large scale power network is normally time-consuming especially when multiple scenarios are required for validation tests.
 
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -49,3 +55,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
