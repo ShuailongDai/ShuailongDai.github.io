@@ -4,7 +4,7 @@ collection: projects
 type: "Innovation Project"
 permalink: /projects/2015-spring-teaching-2
 venue: "University of Birmingham"
-date: 202202-202403END
+date: 2014-01-01
 location: "Birmingham, UK"
 ---
 
