@@ -2,7 +2,7 @@
 title: "'D3' - Data-driven Network Dynamic Representation for Derisking the HVDC and Offshore Wind"
 collection: projects
 type: "Innovation Project"
-permalink: /projects/2015-spring-teaching-1
+permalink: /projects/2015-spring-teaching-2
 venue: "University of Birmingham"
 date: 202202-202403END
 location: "Birmingham, UK"
