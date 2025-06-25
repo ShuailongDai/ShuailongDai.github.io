@@ -12,14 +12,18 @@ I am currently working on the impedance-based stability analysis for modern powe
 Research Interests
 ======
 Impedance-based stability analysis
+------
+Since the OEM provides a black box model, the system operator has no way of knowing its internal controls and parameters. The measurement-based impedance stability analysis method can obtain the impedance information of the system by injecting harmonic signals, and then analyze the stability of the system according to the Nyquist stability criterion.
 
 
 
 Grid-forming control
+------
 As new energy equipment replaces traditional generators in modern power systems, the inertia of the system decreases, and the resulting instability becomes more frequent. Although the networking control method has advantages such as black start and providing inertia for the system, its control interaction phenomenon also causes some potential unstable factors.
 
 
 Network reduction
+------
 The detailed EMT model for large scale power network is normally time-consuming especially when multiple scenarios are required for validation tests.
 
 <!--
