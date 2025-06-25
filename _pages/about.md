@@ -11,6 +11,7 @@ I am currently working on the impedance-based stability analysis for modern powe
 
 Research Interests
 ======
+
 Impedance-based stability analysis
 ------
 Since the OEM provides a black box model, the system operator has no way of knowing its internal controls and parameters. The measurement-based impedance stability analysis method can obtain the impedance information of the system by injecting harmonic signals, and then analyze the stability of the system according to the Nyquist stability criterion.
