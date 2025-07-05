@@ -7,18 +7,21 @@ redirect_from:
   - /Chinese.html
 ---
 
-## About Operability Innovation Team
-
-Changes in the energy system over the last decade have resulted in the high penetration of Inverter Based Resources (IBR) and reduction in the conventional synchronous generators in the system. With the high penetration of IBR resources, system phenomenon such as system stability, control interactions between the plants and oscillation issues need to be analysed. This requires detailed Electro Magnetic Transient (EMT) model and analysis capabilities. As we move to enable the zero-carbon operation of the system by 2025 and beyond, we need to carry out required EMT analysis to ensure that we would be able to operate the system with only renewable sources of energy.
-
-
-The Operability Innovation team is responsible for developing EMT models to represent the wider GB electricity network and carrying out system analysis for the future network with high penetration of Inverter Based Resources (IBR). Operability Innovation team is also responsible for developing and delivering innovation projects to meet the future operational challenges. Whist doing this, we engage with various teams within NESO and with a wide range of external stakeholders.
-
-## About The National Energy System Operator (NESO)
-In Autumn of 2024, the ESO transitioned to National Energy System Operator, or NESO for short. Previously denoted as the Future System Operator (or FSO), the new National Energy System Operator is the independent body responsible for planning Great Britain’s electricity and gas networks and operating the electricity system.
+## 研究方向
+# 阻抗稳定性分析与振荡抑制
+设计并开发了基于PSCAD的阻抗扫描及稳定性分析工具箱，用于辨识高比例新能源电力系统的潜在振荡风险。
+# 构网型控制与优化
+逆变器的构网型控制方法克服了传统跟网型逆变器的一些缺点，但也带来了一些新的问题和挑战。
+# 电网等值模型开发
+大规模的电磁暂态仿真往往需要很长的运算时间，这不利于工程师进行模型的验证与测试。
 
 
-The ESO, including all of its existing roles, are now at the heart of the new National Energy System Operator. As NESO, we will build on our existing roles, capabilities, and ways of working significantly to create an organisation the energy system and its users’ need. Our new capabilities will enable us to look across vectors, including electricity, natural gas and hydrogen, and crucially consider the trade-offs between them.
+
+## 学术兼职
+2025.3-至今        国际大电网组织英国青年委员会                副秘书长兼财务主管
+负责制定和管理委员会的年度预算，定期编制财务报表，确保资金的合理分配与使用。协助秘书长安排委员会的会议和活动，负责会议记录、决议和相关文档的整理与存档，并确保会议顺利进行。参与策划和组织技术研讨会、培训课程和社交活动，并增强青年在电力系统领域的影响力和网络构建。代表委员会参加CIGRE会议和其他相关国际会议，推广委员会的活动及成果。
+
+2024.12-至今        国际大电网组织 B4/C4 103工作组                    专家
+为高压直流输电 (HVDC) 和柔性交流输电 (FACTS) 项目研究的交流网络等效模型提供技术指导并参与等效模型的研发和设计，并就如何确定等效交流网络的规模以及如何与原始模型进行基准测试提出相关建议。
 
 
-The organisation is set up as a public corporation with its own Board of independent directors, with complete operational independence from government, the regulator and any and all commercial interest. As was the ESO, NESO will be licenced and regulated by Ofgem through price control agreements and obligated to identify optimal solutions to system operations and planning in the most sustainable, affordable and secure way for all.
