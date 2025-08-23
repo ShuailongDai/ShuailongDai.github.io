@@ -16,6 +16,11 @@ Manufacturers/owners of new power electronic systems have obligations to adjust 
 
 This project will aim to address these issues by developing advanced tools for obtaining accurate grid dynamic models which don’t reveal confidential system data and can be shared with outside stakeholders. 
 
+
+
+title: "Report 1 “Novel DC solutions for effective renewable energy integration"
+collection: files
+permalink: /files/GPFM.pdf
 Heading 1
 ======
 
