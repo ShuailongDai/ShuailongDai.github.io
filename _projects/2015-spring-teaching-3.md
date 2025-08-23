@@ -6,6 +6,7 @@ permalink: /projects/2015-spring-teaching-3
 venue: "Green Powered Future Mission Insight"
 date: 2024-01-01
 location: "Birmingham, UK"
+paperurl: 'https://www.e-cigre.org/publications/detail/b4-11751-2024-a-novel-methodology-to-derisk-hvdc-and-offshore-wind-connections-to-a-network.html'
 ---
 https://drive.google.com/file/d/1yDRByIm8qZWJPK5J8ZatM1Tfi27YODdN/view
 
@@ -18,9 +19,7 @@ This project will aim to address these issues by developing advanced tools for o
 
 
 
-title: "Report 1 “Novel DC solutions for effective renewable energy integration"
-collection: files
-permalink: /files/GPFM.pdf
+
 Heading 1
 ======
 
