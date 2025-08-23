@@ -8,16 +8,7 @@ date: 2024-01-01
 location: "Birmingham, UK"
 paperurl: 'https://drive.google.com/file/d/1yDRByIm8qZWJPK5J8ZatM1Tfi27YODdN/view'
 ---
-
-
-
-The GB electricity network is rapidly moving into a power electronic dominated one due to the installations of new HVDC and renewable generation systems. This brings considerable risks of control interactions between new power electronic equipment and existing ones.  
-
-Manufacturers/owners of new power electronic systems have obligations to adjust their control parameters to minimise the control interactions. To carry out this research, they will need to have detailed grid dynamic models from National Grid ESO (NGESO). However, it is difficult for NGESO to share detailed system information due to system models' complexity, confidentiality, and IP issues. 
-
-This project will aim to address these issues by developing advanced tools for obtaining accurate grid dynamic models which don’t reveal confidential system data and can be shared with outside stakeholders. 
-
-
+Mission Innovation (MI) is a concept of multilateral cooperationin the field of clean energy that was initiated by multinationalleaders at COP21 in 2015. In order to strengthen internationalscientific and technological cooperation and acceleratetechnological innovation in new power systems, the GreenPowered Future Mission (GPFM) was launched as one of thefirst-wave Missions in MI's Second Phase (2021-2030).The Mission, co-led by China, Italy and the UK, aims to“demonstrate that by 2030, power systems in different 
 
 
 Heading 1
