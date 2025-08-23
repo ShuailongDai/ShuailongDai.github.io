@@ -6,9 +6,9 @@ permalink: /projects/2015-spring-teaching-3
 venue: "Green Powered Future Mission Insight"
 date: 2024-01-01
 location: "Birmingham, UK"
-paperurl: 'https://www.e-cigre.org/publications/detail/b4-11751-2024-a-novel-methodology-to-derisk-hvdc-and-offshore-wind-connections-to-a-network.html'
+paperurl: 'https://drive.google.com/file/d/1yDRByIm8qZWJPK5J8ZatM1Tfi27YODdN/view'
 ---
-https://drive.google.com/file/d/1yDRByIm8qZWJPK5J8ZatM1Tfi27YODdN/view
+
 
 
 The GB electricity network is rapidly moving into a power electronic dominated one due to the installations of new HVDC and renewable generation systems. This brings considerable risks of control interactions between new power electronic equipment and existing ones.  
