@@ -14,7 +14,7 @@ with six different Frequency Scan tools and the lessons learned.'
 date: 2025-09-02
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Jay Ramachandran, Weihua Zhou, Charlie Guo, Shuailong Dai1. (2025). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Jay Ramachandran, Weihua Zhou, Charlie Guo, Shuailong Dai1. (2025). &quot;Benchmarking of Six Different Frequency Scan Tools – Insights and Lessons Learned&quot; <i>CIGRE Australia Conference</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
