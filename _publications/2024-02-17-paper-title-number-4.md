@@ -13,7 +13,7 @@ analyse the potential of SSO risk.
 with six different Frequency Scan tools and the lessons learned.'
 date: 2025-09-02
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/benchmarking-of-six-different-frequency-scan-tools.pdf'
+paperurl: 'https://www.aemo.com.au/-/media/files/initiatives/frequency-scanning/benchmarking-of-six-different-frequency-scan-tools.pdf?rev=f8e23e959ae740b7af007f9912a332df&sc_lang=en'
 citation: 'Jay Ramachandran, Weihua Zhou, Charlie Guo, Shuailong Dai. (2025). &quot;Benchmarking of Six Different Frequency Scan Tools – Insights and Lessons Learned&quot; <i>CIGRE Australia Conference</i>. 1(3).'
 ---
 
