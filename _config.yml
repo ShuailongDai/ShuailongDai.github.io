@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Power system engineer"
   location         : "United Kigndom"
-  employer         : "University of Birmingham"
-  uri              : # URL
+  employer         : "National Energy System Operator"
+  uri              : "https://www.neso.energy/"
   email            : "daishuailong@gmail.com" 
 
   # Academic websites
