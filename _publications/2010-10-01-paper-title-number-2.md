@@ -3,7 +3,7 @@ title: "Insight Report 1 “Novel DC solutions”"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This report introduces a novel approach: DC Collection - DC Transmission.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://shuailongdai.github.io/files/GPFM.pdf'
