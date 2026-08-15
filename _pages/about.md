@@ -35,10 +35,13 @@ I am a power systems engineer and researcher with experience spanning academic r
 
 <br><br>
 
-# 🎖️ News
-Workshop: Grid-coupled Power Converter-Based Renewable Energy Systems: Digitalisation and AI Applications
+# 🔥 News
+20260805 CIGRE Workshop: Grid-coupled Power Converter-Based Renewable Energy Systems: Digitalisation and AI Applications
 
 Title: Key Challenges and Opportunities for Stability Analysis and Tool Developments
+
+<img width="4640" height="2608" alt="微信图片_20260809165646_278_49" src="https://github.com/user-attachments/assets/c2e9ecf1-5b5b-48ee-b575-ebfc6b28a59c" />
+
 
 <br><br><br><br>
 
