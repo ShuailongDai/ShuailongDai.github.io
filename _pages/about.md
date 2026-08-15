@@ -19,7 +19,7 @@ redirect_from:
 I am currently working as power system engineer at National Energy System Operator (NESO).
 My work interest includes the impedance-based stability analysis for modern power systems. 
 
-
+<br><br><br><br>
 
 
 
