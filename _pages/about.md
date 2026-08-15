@@ -21,6 +21,9 @@ My work interest includes the impedance-based stability analysis for modern powe
 
 <br><br><br><br>
 
+<h2 style="color: darkred;">Personal Experience</h2>
+
+
 📖 Educations
 ======
 - 2024.03 - Now,    Engineer,  National Energy System Operator, UK
