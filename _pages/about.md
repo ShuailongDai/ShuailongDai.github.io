@@ -16,8 +16,7 @@ redirect_from:
 
 
 
-I am currently working as power system engineer at National Energy System Operator (NESO).
-My work interest includes the impedance-based stability analysis for modern power systems. 
+I am a power systems engineer and researcher with experience spanning academic research, industrial innovation, and practical power-system stability studies. My work has focused particularly on the stability of renewable-rich power systems, grid-connected power converters, impedance-based stability analysis, electromagnetic transient (EMT) simulation, grid-forming technologies, and interactions associated with inverter-based resources.
 
 <br><br><br><br>
 
