@@ -59,7 +59,10 @@ Grid-forming control
 As new energy equipment replaces traditional generators in modern power systems, the inertia of the system decreases, and the resulting instability becomes more frequent. Although the networking control method has advantages such as black start and providing inertia for the system, its control interaction phenomenon also causes some potential unstable factors.
 
 
-
+# 📝 Publications 
+------
+[1] Series-connected battery equalization system: A systematic review on variables, topologies, and modular methods. |Shuailong Dai, Feiran Zhang, Xiao Zhao |https://doi.org/10.1002/er.7053
+[2] Analysis, design and implementation of flexible interlaced converter for lithium battery active balancing in electric vehicles
 
 <!--
 Getting started
