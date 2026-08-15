@@ -6,8 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.page__title {
+  color: #0066cc !important;
+}
+</style>
 
-I am currently working on the impedance-based stability analysis for modern power systems. My research interests include the impedance scan and stability analysis.
+
+
+
+
+I am currently working as power system engineer at National Energy System Operator (NESO).
+My work interest includes the impedance-based stability analysis for modern power systems. 
+
+
+
+
+
 
 Research Interests
 ======
@@ -23,9 +38,7 @@ Grid-forming control
 As new energy equipment replaces traditional generators in modern power systems, the inertia of the system decreases, and the resulting instability becomes more frequent. Although the networking control method has advantages such as black start and providing inertia for the system, its control interaction phenomenon also causes some potential unstable factors.
 
 
-Network reduction
-------
-The detailed EMT model for large scale power network is normally time-consuming especially when multiple scenarios are required for validation tests.
+
 
 <!--
 Getting started
