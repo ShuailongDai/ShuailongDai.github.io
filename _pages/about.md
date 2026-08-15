@@ -23,11 +23,11 @@ I am a power systems engineer and researcher with experience spanning academic r
 
 
 
-📖 Educations and Works
+📖 Educations and Working experiences
 ======
 - 2024.03 - Now,    Engineer,  National Energy System Operator, UK
 - 2020.09 - 2024.3, Ph.D,      University Of Birmingham, UK
-
+- 2018.09 - 2020.6, Master,    China Three Gorges University, China
 <br>
 
 
