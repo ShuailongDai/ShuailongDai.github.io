@@ -23,10 +23,13 @@ I am a power systems engineer and researcher with experience spanning academic r
 
 
 
-📖 Educations
+📖 Educations and Works
 ======
 - 2024.03 - Now,    Engineer,  National Energy System Operator, UK
 - 2020.09 - 2024.3, Ph.D,      University Of Birmingham, UK
+
+<br>
+
 
 
 <br><br>
