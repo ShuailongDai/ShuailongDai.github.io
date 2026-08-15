@@ -20,7 +20,7 @@ I am a power systems engineer and researcher with experience spanning academic r
 
 <br><br><br><br>
 
-<h2 style="color: darkred;">Personal Experience</h2>
+
 
 
 📖 Educations
