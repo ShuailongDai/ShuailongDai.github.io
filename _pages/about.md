@@ -32,6 +32,19 @@ My work interest includes the impedance-based stability analysis for modern powe
 
 <br><br>
 
+# 🎖️ News
+Workshop: Grid-coupled Power Converter-Based Renewable Energy Systems: Digitalisation and AI Applications
+
+Title: Key Challenges and Opportunities for Stability Analysis and Tool Developments
+
+
+
+
+# 🎖️ Professional Honors
+
+- 35 under 35, 10/02/2026  
+  
+
 
 Research Interests
 ======
