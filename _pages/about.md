@@ -63,8 +63,9 @@ The proposed approach fills this modelling gap by a Frequency-Dependent Network 
 The FDNE solution directly supports NESO’s objectives of improving system operability and resilience in a high-IBR future. It offers a fast, accurate, and flexible simulation toolset that streamlines compliance processes and empowers users, all while maintaining confidentiality.   
 
 <br><br>
-Hybrid
+Hybrid Frequency Domain Assessment for Networks with IBRs
 ------
+This project aims to evaluate and verify a hybrid frequency domain methodology for power system stability analysis, assessing its suitability for networks with high penetrations of inverter-based resources. The work involves reviewing existing impedance scanning practices, applying device level impedance scans and grid frequency sweeps using a hybrid approach, comparing results against established EMT (Electromagnetic Transient) based methods, and validating frequency domain findings through time domain simulations. The project will be delivered over a 12-month period, progressing from initial scoping and review through application, comparison, verification, and final reporting. Expected outcomes include a validated hybrid stability assessment method, comparative evidence of accuracy and efficiency, and documented results to support future stability studies. 
 <br><br>
 D3
 ------
