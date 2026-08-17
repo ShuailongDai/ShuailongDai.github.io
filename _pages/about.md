@@ -55,7 +55,7 @@ Title: Frequency Scan Toolbox, a data-driven solution for impedance-based stabil
 
 <br><br>
  FDNE <br><br>
-------
+
 The increase in inverter-based resources (IBRs) introduces new challenges for electromagnetic transient (EMT) modelling and stability analysis. The traditional short-circuit strength based Thevenin equivalents are no longer sufficient, which fail to capture the frequency-dependent impedance characteristics of the network.  
   
 The proposed approach fills this modelling gap by a Frequency-Dependent Network Equivalent (FDNE) for the transmission network. The FDNE is a data-driven model that accurately reproduces the network’s voltage-current behaviour across a broad range of frequencies. The aim of this 18-month project will be implemented via five work packages.  
@@ -64,7 +64,7 @@ The FDNE solution directly supports NESO’s objectives of improving system oper
 
 <br><br>
  Hybrid Frequency Domain Assessment for Networks with IBRs <br><br>
-------
+
 This project aims to evaluate and verify a hybrid frequency domain methodology for power system stability analysis, assessing its suitability for networks with high penetrations of inverter-based resources. The work involves reviewing existing impedance scanning practices, applying device level impedance scans and grid frequency sweeps using a hybrid approach, comparing results against established EMT (Electromagnetic Transient) based methods, and validating frequency domain findings through time domain simulations. The project will be delivered over a 12-month period, progressing from initial scoping and review through application, comparison, verification, and final reporting. Expected outcomes include a validated hybrid stability assessment method, comparative evidence of accuracy and efficiency, and documented results to support future stability studies. 
 <br><br>
 D3
