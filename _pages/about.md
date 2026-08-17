@@ -51,9 +51,9 @@ Title: Frequency Scan Toolbox, a data-driven solution for impedance-based stabil
 
 
 <br><br><br><br>
-💡Projects
+#💡Projects
 ======
-
+<br><br>
 FDNE
 ------
 Hybrid
