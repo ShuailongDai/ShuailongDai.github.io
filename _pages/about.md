@@ -15,7 +15,6 @@ redirect_from:
 
 
 
-
 I am a power systems engineer and researcher with experience spanning academic research, industrial innovation, and practical power-system stability studies. My work has focused particularly on the stability of renewable-rich power systems, grid-connected power converters, impedance-based stability analysis, electromagnetic transient (EMT) simulation, grid-forming technologies, and interactions associated with inverter-based resources.
 
 <br><br><br><br>
@@ -28,7 +27,7 @@ I am a power systems engineer and researcher with experience spanning academic r
 - 2024.03 - Now,    Engineer,  National Energy System Operator, UK
 - 2020.09 - 2024.3, Ph.D,      University Of Birmingham, UK
 - 2018.09 - 2020.6, MPhil,    China Three Gorges University, China
-- 
+- 2014.09 - 2018.6，
 <br>
 
 
@@ -41,6 +40,14 @@ I am a power systems engineer and researcher with experience spanning academic r
 Title: Key Challenges and Opportunities for Stability Analysis and Tool Developments
 
 <img width="4640" height="2608" alt="微信图片_20260809165646_278_49" src="https://github.com/user-attachments/assets/c2e9ecf1-5b5b-48ee-b575-ebfc6b28a59c" />
+
+
+
+20250516 CIGRE UK B4 Technical Liaison Meeting 
+Title: Frequency Scan Toolbox, a data-driven solution for impedance-based stability analysis
+
+<img width="1024" height="444" alt="image" src="https://github.com/user-attachments/assets/5e810852-4cba-46df-90a7-f244a64f0331" />
+
 
 
 <br><br><br><br>
