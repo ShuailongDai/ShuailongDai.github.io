@@ -73,7 +73,7 @@ As new energy equipment replaces traditional generators in modern power systems,
 # 📝 Publications 
 ------
 [1] Series-connected battery equalization system: A systematic review on variables, topologies, and modular methods. |Shuailong Dai, Feiran Zhang, Xiao Zhao |https://doi.org/10.1002/er.7053
-<br>
+<br><br>
 [2] Analysis, design and implementation of flexible interlaced converter for lithium battery active balancing in electric vehicles
 
 <!--
