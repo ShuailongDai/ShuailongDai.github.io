@@ -55,8 +55,8 @@ Title: Frequency Scan Toolbox, a data-driven solution for impedance-based stabil
 
 # 🎖️ Professional Honors
 
-- 35 under 35, 10/02/2026
-- 
+- GELA Global Sustainability Youth Leaders (35 under 35), 2026.4
+- Early graduation from master's program (the only one in the college)，2020.06
   
 <br><br><br><br>
 
